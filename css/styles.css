@@ -1,0 +1,149 @@
+ul,
+ol {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+button {
+  cursor: pointer;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+.page-logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+.logo-web {
+  color: #4d5ae5;
+}
+.nav-menu {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.nav-menu:hover,
+:focus {
+  color: #404bbf;
+}
+.nav-contact {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.nav-contact:hover,
+:focus {
+  color: #404bbf;
+}
+.page-introduction {
+  background: #2e2f42;
+}
+.text-introduction {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 60px;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  color: #fff;
+}
+.button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  background: #4d5ae5;
+}
+
+.advantages-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.text-advantages {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.title-team {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.name-workman {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.position {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.title-portfolio {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.name-portfolio {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.text-portfolio {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.text-logo {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+.Additional-information {
+  background: #2e2f42;
+}
+.logo-studio {
+  color: #f4f4fd;
+}

@@ -10,6 +10,8 @@ button {
 }
 body {
   font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
 }
 .page-logo {
   font-family: "Raleway", sans-serif;
@@ -36,8 +38,10 @@ body {
 :focus {
   color: #404bbf;
 }
+.contact {
+  font-style: normal;
+}
 .nav-contact {
-  font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   line-height: 1.5;
@@ -52,10 +56,9 @@ body {
   background: #2e2f42;
 }
 .text-introduction {
-  font-weight: 700;
   font-size: 56px;
   line-height: 60px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   color: #fff;
 }
@@ -68,7 +71,13 @@ body {
   color: #fff;
   background: #4d5ae5;
 }
-
+.button:hover,
+:focus {
+  background-color: #404bbf;
+}
+.text-introduction {
+  text-align: center;
+}
 .advantages-name {
   font-weight: 500;
   font-size: 20px;
@@ -78,20 +87,26 @@ body {
   color: #2e2f42;
 }
 .text-advantages {
-  font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
+.team {
+  background-color: #f4f4fd;
+}
 .title-team {
-  font-weight: 700;
   font-size: 36px;
   line-height: 40px;
-  line-height: 1.11;
+  line-height: 1.1;
+  text-align: center;
   letter-spacing: 0.02em;
+  text-transform: capitalize;
   color: #2e2f42;
+}
+.item-team {
+  background-color: #ffffff;
 }
 .name-workman {
   font-weight: 500;
@@ -102,7 +117,6 @@ body {
   color: #2e2f42;
 }
 .position {
-  font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   line-height: 1.5;
@@ -110,11 +124,12 @@ body {
   color: #434455;
 }
 .title-portfolio {
-  font-weight: 700;
   font-size: 36px;
   line-height: 40px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 .name-portfolio {
@@ -126,7 +141,6 @@ body {
   color: #2e2f42;
 }
 .text-portfolio {
-  font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   line-height: 1.5;
@@ -141,7 +155,7 @@ body {
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
-.Additional-information {
+.additional-information {
   background: #2e2f42;
 }
 .logo-studios {
